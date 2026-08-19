@@ -14,7 +14,7 @@ static/
 
 # Environment variables
 .env
-
+.venv
 # VSCode and IDE folders
 .vscode/
 .idea/
