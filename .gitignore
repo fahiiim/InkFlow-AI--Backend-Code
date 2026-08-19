@@ -13,10 +13,8 @@ staticfiles/
 static/
 
 # Environment variables
-.env
-
+.venv
 # VSCode and IDE folders
-.vscode/
 .idea/
 
 
@@ -29,9 +27,14 @@ passenger_wsgi.py
 stderr.log
 .ftpquota
 
-public/
 tmp/
 env/
 restart.txt
 
 structure.json
+config.bat
+node_modules
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
